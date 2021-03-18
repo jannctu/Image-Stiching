@@ -32,8 +32,8 @@ Requires
 ![image](https://github.com/jannctu/Image-Stiching/blob/main/output/A001_A002_A003.jpg)
 ![image](https://github.com/jannctu/Image-Stiching/blob/main/output/A004_A005.jpg)
 ![image](https://github.com/jannctu/Image-Stiching/blob/main/output/A004_A005_A006.jpg)
-![image](https://github.com/jannctu/Image-Stiching/blob/main/output/A006_A007.jpg)
-![image](https://github.com/jannctu/Image-Stiching/blob/main/output/A006_A007_A008.jpg)
+![image](https://github.com/jannctu/Image-Stiching/blob/main/output/A007_A008.jpg)
+![image](https://github.com/jannctu/Image-Stiching/blob/main/output/A007_A008_A009.jpg)
 
 ## License
 MIT
